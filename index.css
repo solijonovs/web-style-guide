@@ -1,0 +1,85 @@
+.heading {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid grey;
+    margin: 40px auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+/* Colors */
+.colors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.color {
+    height: 100px;
+    width: 280px;
+    text-align: center;
+}
+
+.blue {
+    background-color: #2d5dcc;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+/* Fonts */
+.fonts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.font-one {
+    font-family: 'Source Code Pro';
+}
+
+.font-two {
+    font-family: 'Nunito Sans';
+}
+
+.font-three {
+    font-family: 'Poppins';
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* Text-Styles */
+.sub-heading {
+    text-align: left;
+}
+
+.container-two {
+    margin-left: 20px;
+}
+
